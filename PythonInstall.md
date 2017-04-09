@@ -1,7 +1,5 @@
-
-[TOC "float:right"]
 #Install Python 2.7.13 in Centos 6.8 x86
-
+[TOC "float:right"]
 ##Install Python 2.7.13
 ```Shell
 cd /opt
